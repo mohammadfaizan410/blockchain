@@ -28,4 +28,9 @@ contract Dirt {
     function getUserBalance(address _accNumber) public view returns(uint){
         return balances[_accNumber];
     }
+
+    function addAccToMapping(address _accNumber) public returns(address){
+        balances[_accNumber] = 0;
+        return _accNumber;
+    }
 }
