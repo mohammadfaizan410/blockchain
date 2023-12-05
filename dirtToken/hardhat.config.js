@@ -1,5 +1,6 @@
 
 require("@nomicfoundation/hardhat-toolbox");
+
 /** @type import('hardhat/config').HardhatUserConfig */
 
 const MY_KEY = '0ed15a1e49674f0bb70d278debab74c1';

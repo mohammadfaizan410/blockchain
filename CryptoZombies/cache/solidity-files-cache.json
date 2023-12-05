@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\moham\\Downloads\\blockchain\\CryptoZombies\\contracts\\ZombieFactory.sol": {
+      "lastModificationDate": 1701752140368,
+      "contentHash": "e829dccc28baeb02ccd1e3dfea1bef00",
+      "sourceName": "contracts/ZombieFactory.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.1"
+      ],
+      "artifacts": [
+        "ZombieFactory"
+      ]
+    }
+  }
+}
